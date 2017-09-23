@@ -1,33 +1,26 @@
-Project: Multi user blog
+<h1>Multi user blog</h1>
+<h3>Desciption</h3>
+  Blog
+  Front page listing blog posts
+  Form to submit new entries
+  Blog posts have their own page
+  
+  User registration
+  Registration form that validates input
+  Success page after registration
+  
+  Login
+  Login form that validates input
+  Success page after login
 
-Desciption:
+  Logout
 
-Blog
-Front page listing blog posts
-Form to submit new entries
-Blog posts have their own page
+<h3>Technology</h3>
+  Python 2.7
+  Google App Engine SDK
+  Jinja2
 
-User registration
-Registration form that validates input
-Success page after registration
-
-Login
-
-. Login form that validates input
-
-. Success page after login
-
-Logout
-
-Technology: 
-
-. Python 2.7
-
-. Google App Engine SDK
-
-. Jinja2
-
-How to deploy code:
+<h3>How to deploy code:</h3>
 1. Download file "multi_user_blog".
 1. Open your terminal.
 2. Cd to root with "app.yaml" file.
