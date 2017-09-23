@@ -1,24 +1,35 @@
 Project: Multi user blog
 
 Desciption:
+
 Blog
+
 . Front page listing blog posts
+
 . Form to submit new entries
+
 . Blog posts have their own page
 
 User registration
+
 . Registration form that validates input
+
 . Success page after registration
 
 Login
+
 . Login form that validates input
+
 . Success page after login
 
 Logout
 
 Technology: 
+
 . Python 2.7
+
 . Google App Engine SDK
+
 . Jinja2
 
 How to deploy code:
