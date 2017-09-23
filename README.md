@@ -3,18 +3,13 @@ Project: Multi user blog
 Desciption:
 
 Blog
-
-. Front page listing blog posts
-
-. Form to submit new entries
-
-. Blog posts have their own page
+Front page listing blog posts
+Form to submit new entries
+Blog posts have their own page
 
 User registration
-
-. Registration form that validates input
-
-. Success page after registration
+Registration form that validates input
+Success page after registration
 
 Login
 
