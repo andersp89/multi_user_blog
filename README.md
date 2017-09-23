@@ -1,19 +1,19 @@
 # Multi user blog
 ### Desciption
-Blog
+#### Blog
 * Front page listing blog posts
 * Form to submit new entries
 * Blog posts have their own page  
 
-User registration
+#### User registration
 * Registration form that validates input
 * Success page after registration
 
-Login
+#### Login
 * Login form that validates input
 * Success page after login
 
-Logout
+#### Logout
 
 ### Technology
 * Python 2.7
