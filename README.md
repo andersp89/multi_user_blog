@@ -1,9 +1,9 @@
 <h1>Multi user blog</h1>
 <h3>Desciption</h3>
 Blog<br />
-* Front page listing blog posts
-* Form to submit new entries
-* Blog posts have their own page
+* Front page listing blog posts  
+* Form to submit new entries  
+* Blog posts have their own page  
 <br />
 User registration
 * Registration form that validates input
