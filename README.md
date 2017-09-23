@@ -1,11 +1,12 @@
 <h1>Multi user blog</h1>
 <h3>Desciption</h3>
 Blog<br />
-* Front page listing blog posts  
+* Front page listing blog posts --  
 * Form to submit new entries  
 * Blog posts have their own page  
 <br />
 User registration
+
 * Registration form that validates input
 * Success page after registration
 <br />
@@ -22,8 +23,8 @@ Logout
 
 <h3>How to deploy code:</h3>
 1. Download file "multi_user_blog".
-1. Open your terminal.
-2. Cd to root with "app.yaml" file.
-3. Deploy app to Google App Engine by running "gcloud app deploy".
-4. Launch app by running "cloud app browse" in terminal or go to "http://[YOUR_PROJECT_ID].appspot.com" in your browser.
-5. Enjoy!
+2. Open your terminal.
+3. Cd to root with "app.yaml" file.
+4. Deploy app to Google App Engine by running "gcloud app deploy".
+5. Launch app by running "cloud app browse" in terminal or go to "http://[YOUR_PROJECT_ID].appspot.com" in your browser.
+6. Enjoy!
